@@ -1,1 +1,2 @@
 # YamlTranslation
+递归的方式不断获取yaml文件中的key和value，选择性存储，为node作准备
